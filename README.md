@@ -1,2 +1,2 @@
 # Simple
-Bash learning reference
+Bash
